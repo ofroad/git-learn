@@ -5,3 +5,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/ofroad/git-learn.git
 git push -u origin master
 /*=============*/
+
+/*======本地创建新分支并与github上的仓库(分支)关联=======*/
+git branch v1
+
+git push origin v1
