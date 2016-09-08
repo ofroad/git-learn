@@ -1,0 +1,7 @@
+/*======本地创建新仓库并与github上的仓库关联=======*/
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ofroad/git-learn.git
+git push -u origin master
+/*=============*/
