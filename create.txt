@@ -1,4 +1,4 @@
-/*======本地创建新仓库并与github上的仓库关联=======*/
+/*======鏈湴鍒涘缓鏂颁粨搴撳苟涓巊ithub涓婄殑浠撳簱鍏宠仈=======*/
 git init
 git add README.md
 git commit -m "first commit"
@@ -8,3 +8,5 @@ git push -u origin master
 
 1213
 666
+add
+
